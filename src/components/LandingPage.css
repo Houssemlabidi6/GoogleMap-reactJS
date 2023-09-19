@@ -1,0 +1,19 @@
+.landing-page {
+  text-align: center;
+  margin: 20px;
+}
+
+.map-container {
+  height: 400px;
+  width: 100%;
+}
+
+.map-marker {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+  display: inline-block;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
